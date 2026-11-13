@@ -1,6 +1,0 @@
-{
-  "schedule": [
-    { "icon": "Halloween", "from": "10-15", "to": "11-01" },
-    { "icon": "Christmas", "from": "12-01", "to": "12-31" }
-  ]
-}
